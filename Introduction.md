@@ -1,0 +1,1 @@
+GitHub Pages, a service by GitHub, enables users to host static websites directly from their repositories. With support for HTML, CSS and JavaScript, it's an excellent platform for showcasing projects, documentation, or personal portfolios.
